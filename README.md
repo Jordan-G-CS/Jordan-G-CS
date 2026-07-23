@@ -18,7 +18,7 @@ I'm a Computer Science student at Tufts Univeristy interested in Machine Learnin
 - 🎓 Studying Computer Science at Tufts Univeristy
 - 💼 Currently a Break Through Tech Fellow
 - 🌱 Currently learning: Python for Machine Learning, RAG, Chatbots
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jordan-gasaatura/)
+- 📫 Reach me: [Email](mailto:jordangasaatura2006@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-gasaatura/)
 
 ---
 
@@ -86,8 +86,8 @@ _Don't have projects yet? That's ok! This is only an example_
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** linkedin.com/in/jordan-gasaatura 
-- **Email:** jordangasaatura2006@gmail.com 
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jordan-gasaatura/)
+- **Email:** [jordangasaatura2006@gmail.com](mailto:jordangasaatura2006@gmail.com)
 
 ---
 
