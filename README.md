@@ -60,7 +60,9 @@ _Don't have projects yet? That's ok! This is only an example_
 ---
 
 ### 📊 GitHub Highlights
-- Contributions to **X+ repositories** across [open source / academic / personal projects]  
+- Contributions to **X+ repositories** across [open source / academic / personal projects]
+
+### 📊 GitHub Stats: Coming Soon!
 
 ---
 
