@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I'm a Computer Science student at Tufts University pursuing opportunities in software engineering and machine learning. I'm particularly interested in observability and building reliable, scalable software systems
+I'm a Computer Science student at Tufts University pursuing opportunities in software engineering and machine learning. My interests include observability, machine learning, and reliable software systems.
 
 - 🎓 Studying Computer Science at Tufts Univeristy
 - 💼 Currently a Break Through Tech Fellow
