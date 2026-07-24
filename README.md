@@ -48,7 +48,7 @@ I'm a Computer Science student at Tufts University pursuing opportunities in sof
 ---
 
 ### 📊 GitHub Highlights
-- Contributions to **X+ repositories** across [open source / academic / personal projects]
+- Contributions to **3+ repositories** across [open source / academic / personal projects]
 
 ### 📊 GitHub Stats: Coming Soon!
 
@@ -67,9 +67,7 @@ I'm a Computer Science student at Tufts University pursuing opportunities in sof
 
 ## What I'm Currently Working On
 
-- []
-- []
-- []
+- premier league match prediction model to predict match winners in the premier league
 
 ---
 
