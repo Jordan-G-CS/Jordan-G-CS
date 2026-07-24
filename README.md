@@ -47,18 +47,6 @@ I'm a Computer Science student at Tufts University pursuing opportunities in sof
 
 ---
 
-### 📂 Featured Projects
-
-_Don't have projects yet? That's ok! This is only an example_
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**Project 1**](GitHub Repo URL) | Built a [1-line description focused on measurable impact or functionality] | Python, Flask |
-| [**Project 2**](GitHub Repo URL) | Developed [short impactful description] | React, Node.js |
-| [**Project 3**](GitHub Repo URL) | Implemented [feature/solution] to solve [problem] | Java, Spring Boot |
-
----
-
 ### 📊 GitHub Highlights
 - Contributions to **X+ repositories** across [open source / academic / personal projects]
 
