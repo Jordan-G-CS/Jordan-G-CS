@@ -47,6 +47,16 @@ I'm a Computer Science student at Tufts University pursuing opportunities in sof
 
 ---
 
+### 📂 Featured Projects
+
+_Don't have projects yet? That's ok! This is only an example_
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**Project 1**](https://github.com/Jordan-G-CS/Income_Predictor) | Built an Income Predictor to predict if a person make more or less than 50k a year using census data.| Python, scikit-learn, pandas |
+
+---
+
 ### 📊 GitHub Highlights
 - Contributions to **3+ repositories** across [open source / academic / personal projects]
 
