@@ -77,7 +77,7 @@ _Don't have projects yet? That's ok! This is only an example_
 
 ## What I'm Currently Working On
 
-- premier league match prediction model to predict match winners in the premier league
+- Convolution Neural Network to detect AI images using the CIFAKE dataset
 
 ---
 
