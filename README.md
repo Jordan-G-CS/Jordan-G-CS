@@ -89,7 +89,10 @@ _Don't have projects yet? That's ok! This is only an example_
 
 Thanks for stopping by!
 
+<div align="center">
 
+  ![snake gif](https://github.com/Jordan-G-CS/Jordan-G-CS/blob/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/Jordan-G-CS/Jordan-G-CS/blob/output/github-snake-dark.svg)
+</div>
+
 
