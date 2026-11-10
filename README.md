@@ -44,6 +44,7 @@ I'm a Computer Science student at Tufts University pursuing opportunities in sof
 - NumPy
 - matplotlib
 - Keras
+- PyTorch
 
 ---
 
