@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## About Me
 I'm a Computer Science student at Tufts University pursuing opportunities in software engineering and machine learning. My interests include observability, machine learning, and reliable software systems.
 
-- 🎓 Studying Computer Science at Tufts Univeristy
+- 🎓 Studying Computer Science and Mathematics at Tufts Univeristy
 - 💼 Currently a Break Through Tech Fellow
 - 🌱 Currently learning: Python for Machine Learning, RAG, Chatbots
 - 📫 Reach me: [Email](mailto:jordangasaatura2006@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-gasaatura/)
