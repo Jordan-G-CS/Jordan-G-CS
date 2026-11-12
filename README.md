@@ -17,7 +17,7 @@ I'm a Computer Science student at Tufts University pursuing opportunities in sof
 
 - 🎓 Studying Computer Science and Mathematics at Tufts Univeristy
 - 💼 Currently a Break Through Tech Fellow
-- 🌱 Currently learning: Python for Machine Learning, RAG, Chatbots
+- 🌱 Currently learning: Python for Machine Learning, Probabilistic Machine Learning
 - 📫 Reach me: [Email](mailto:jordangasaatura2006@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-gasaatura/)
 
 ---
@@ -27,7 +27,6 @@ I'm a Computer Science student at Tufts University pursuing opportunities in sof
 ### Languages
 - Python
 - Go
-- Java
 - C++
 - C
 
