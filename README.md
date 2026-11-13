@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-I'm a Computer Science student at Tufts University pursuing opportunities in software engineering and machine learning. My interests include observability, machine learning, and reliable software systems.
+I'm a Computer Science student at Tufts University pursuing opportunities in software engineering and machine learning. My interests include machine learning, observability, and reliable software systems.
 
 - 🎓 Studying Computer Science and Mathematics at Tufts Univeristy
 - 💼 Currently a Break Through Tech Fellow
@@ -49,7 +49,6 @@ I'm a Computer Science student at Tufts University pursuing opportunities in sof
 
 ### 📂 Featured Projects
 
-_Don't have projects yet? That's ok! This is only an example_
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -57,14 +56,28 @@ _Don't have projects yet? That's ok! This is only an example_
 
 ---
 
-### 📊 GitHub Highlights
-- Contributions to **3+ repositories** across [open source / academic / personal projects]
+
+[//]: # "📊 GitHub Highlights"
+[//]: # "- Contributions to **3+ repositories** across [open source / academic / personal projects]"
 
 ### 📊 GitHub Stats: Coming Soon!
 
 ---
 
 ## Experience
+
+### Accenture x Break Through Tech
+** Machine Learning Fellow ** • May 2026 - Present
+
+- Clean and analyze a noisy supply-chain dataset through preprocessing and exploratory data analysis, identifying
+patterns and features relevant to disruption risk.
+- Collaborate with a team to develop and evaluate machine learning models for predicting supply-chain disruptions,
+with the final solution reviewed by Accenture practitioners.
+- Advanced to this fellowship after completing Break Through Tech’s 9-week ML program ([Certificate](https://mycredentials.ecornell.cornell.edu/credential/iMIXTTFnwv)), where I built end-to-end supervised learning pipelines (data cleaning, feature engineering, model training/evaluation)
+- across multiple real-world datasets, improving F1 score through cross-validation and regularization
+
+
+
 
 ### Odigos
 ** Software Engineer Intern ** • June 2025 - August 2025
@@ -78,6 +91,7 @@ _Don't have projects yet? That's ok! This is only an example_
 ## What I'm Currently Working On
 
 - Convolution Neural Network to detect AI images using the CIFAKE dataset
+- Project that involves using concepts from Probabilistic Machine Learning (currently deciding dataset)
 
 ---
 
