@@ -92,6 +92,7 @@ with the final solution reviewed by Accenture practitioners.
 
 - Convolution Neural Network to detect AI images using the CIFAKE dataset
 - Project that involves using concepts from Probabilistic Machine Learning (currently deciding dataset)
+- Using Logistical Regression and Automatic Differentiation Variational Inference to make a machine learning model that can predict whether or not someone has diabetes
 
 ---
 
